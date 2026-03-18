@@ -1,0 +1,17 @@
+# Symlinked skills (managed externally)
+find-skills
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Generated HTML previews (from view-md skill output, not the template)
+# Don't ignore *.html globally — view-md/template.html is a source file
